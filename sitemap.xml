@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://harshad.ga/</loc>
+  <lastmod>2021-05-09T17:33:06+00:00</lastmod>
+</url>
+		<url>
+			<loc>https://harshad.ga/blog</loc>
+			<lastmod>2021-05-09T17:33:06+00:00</lastmod>
+		</url>
+
+
+
+		<url>
+			<loc>https://harshad.ga/net</loc>
+			<lastmod>2021-05-09T17:33:06+00:00</lastmod>
+		</url>
+		<url>
+			<loc>https://harshad.ga/net/calculator</loc>
+			<lastmod>2021-05-09T17:33:06+00:00</lastmod>
+		</url>
+				<url>
+			<loc>https://harshad.ga/net/fonts</loc>
+			<lastmod>2021-05-09T17:33:06+00:00</lastmod>
+		</url>
+				<url>
+			<loc>https://harshad.ga/net/password-generator</loc>
+			<lastmod>2021-05-09T17:33:06+00:00</lastmod>
+		</url>
+				<url>
+			<loc>https://harshad.ga/net/privacy-policy-generator</loc>
+			<lastmod>2021-05-09T17:33:06+00:00</lastmod>
+		</url>
+				<url>
+			<loc>https://harshad.ga/net/stopwatch</loc>
+			<lastmod>2021-05-09T17:33:06+00:00</lastmod>
+		</url>
+				<url>
+			<loc>https://harshad.ga/net/texteditor</loc>
+			<lastmod>2021-05-09T17:33:06+00:00</lastmod>
+		</url>
+				<url>
+			<loc>https://harshad.ga/net/tictac</loc>
+			<lastmod>2021-05-09T17:33:06+00:00</lastmod>
+		</url>
+				<url>
+			<loc>https://harshad.ga/net/youtube</loc>
+			<lastmod>2021-05-09T17:33:06+00:00</lastmod>
+		</url>
+
+</urlset>
